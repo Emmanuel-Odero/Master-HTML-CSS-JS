@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+.wrapper .box {
+
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: rgb(12, 128, 64);
+    
+}
